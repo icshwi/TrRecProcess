@@ -1,0 +1,4 @@
+[submodule "epics-training-rec-processing"]
+	path = epics-training-rec-processing
+	url = https://gitlab.com/waynelewis/epics-training-rec-processing
+	ignore = all
